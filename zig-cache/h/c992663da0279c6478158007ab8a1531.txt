@@ -1,9 +1,9 @@
-670 14918173765743103 1687224152145021600 aae19a45db0bf47b36bdfbfda537ea95 C:\Users\Cliente\Documents\Projects\Zig\aoc_zig_01\src\main.zig
-670 14918173765743103 1687224152145021600 aae19a45db0bf47b36bdfbfda537ea95 C:\Users\Cliente\Documents\Projects\Zig\aoc_zig_01\src\main.zig
+1673 7599824373137458 1687308376856000800 06634dd52b255a455337ca9535859fdd C:\Users\Cliente\Documents\Projects\Zig\aoc_zig_01\src\main.zig
+1673 7599824373137458 1687308376856000800 06634dd52b255a455337ca9535859fdd C:\Users\Cliente\Documents\Projects\Zig\aoc_zig_01\src\main.zig
 5621 1688849862567168 1674086960000000000 66001e1a55f68e4681c1f32a69223647 C:\Users\Cliente\scoop\apps\zig\current\lib\std\std.zig
 5621 1688849862567168 1674086960000000000 66001e1a55f68e4681c1f32a69223647 C:\Users\Cliente\scoop\apps\zig\current\lib\std\std.zig
 24345 1407374885856499 1674086960000000000 62880d6cfcae34387545ced4cffbd605 C:\Users\Cliente\scoop\apps\zig\current\lib\std\start.zig
-670 14918173765743103 1687224152145021600 aae19a45db0bf47b36bdfbfda537ea95 C:\Users\Cliente\Documents\Projects\Zig\aoc_zig_01\src\main.zig
+1673 7599824373137458 1687308376856000800 06634dd52b255a455337ca9535859fdd C:\Users\Cliente\Documents\Projects\Zig\aoc_zig_01\src\main.zig
 2262 1407374886054269 1687222784474090900 d8ada236138b7190ca90aa3dcc4df001 C:\Users\Cliente\Documents\Projects\Zig\aoc_zig_01\zig-cache\o\2bf5366667742607cad8515be48647f8\builtin.zig
 30315 1407374885856315 1674086960000000000 57ad780aea8cfecc2df8b9f237c95642 C:\Users\Cliente\scoop\apps\zig\current\lib\std\builtin.zig
 65579 1407374885856530 1674086960000000000 de4ed4ac038e061fe21f7118a8e1c089 C:\Users\Cliente\scoop\apps\zig\current\lib\std\target.zig
@@ -25,9 +25,9 @@
 2755 1688849862567216 1674086960000000000 8679c78e1b07e356764d1c5fb9322ff9 C:\Users\Cliente\scoop\apps\zig\current\lib\std\io\buffered_reader.zig
 28050 1407374885856571 1674086960000000000 261cf63756ccf4dfe4930a042d68d59b C:\Users\Cliente\scoop\apps\zig\current\lib\std\io\reader.zig
 19735 1407374885856329 1674086960000000000 6e7678248dfc65f416a8fd51dfa26c44 C:\Users\Cliente\scoop\apps\zig\current\lib\std\fifo.zig
-8366 1407374885856356 1674086960000000000 aa891ca7a791c80cabfbc750a36db16b C:\Users\Cliente\scoop\apps\zig\current\lib\std\log.zig
 106857 1407374885856330 1674086960000000000 1579c5a9983d5315e8d59d7f8bfaa9ef C:\Users\Cliente\scoop\apps\zig\current\lib\std\fmt.zig
 144153 1970324839277671 1674086960000000000 b991eac2066182d106a99f911ccfdf98 C:\Users\Cliente\scoop\apps\zig\current\lib\std\mem.zig
+8366 1407374885856356 1674086960000000000 aa891ca7a791c80cabfbc750a36db16b C:\Users\Cliente\scoop\apps\zig\current\lib\std\log.zig
 50743 1407374885856528 1674086960000000000 4e198a195aece9ba39d6eac320b669fd C:\Users\Cliente\scoop\apps\zig\current\lib\std\fs\path.zig
 34176 1407374885856559 1674086960000000000 8b5dd6d39f62c7d6a1c5b69c55856ba4 C:\Users\Cliente\scoop\apps\zig\current\lib\std\unicode.zig
 130221 1407374885856752 1674086960000000000 f4593d818d5d93d97987fb10ed575966 C:\Users\Cliente\scoop\apps\zig\current\lib\std\os\windows\win32error.zig
